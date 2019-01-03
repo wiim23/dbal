@@ -40,10 +40,5 @@
         "psr-4": {
             "Port\\Dbal\\Tests\\": "tests/"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-        }
     }
 }
