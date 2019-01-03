@@ -1,5 +1,5 @@
 {
-    "name": "portphp/dbal",
+    "name": "wiim23/dbal",
     "description": "Doctrine DBAL adapter for Port",
     "license": "MIT",
     "homepage": "https://github.com/portphp",
